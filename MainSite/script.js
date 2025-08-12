@@ -11,7 +11,7 @@ hoverElements.forEach(elem => {
 });
 
 var typed = new Typed('#typed', {
-  strings: ['Physics Enthusiast', 'Math Problem Destroyer', 'Awesome Guy'],
+  strings: ['SciComm Enthusiast', 'Avid Reader', 'Math Buff', 'Tennis Guy', 'Assistive-Tech Nerd'],
   typeSpeed: 50,
   backSpeed: 50,
   loop: true
